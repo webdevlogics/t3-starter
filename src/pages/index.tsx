@@ -10,7 +10,7 @@ const Home: NextPage = () => {
   function sayHello(message: string) {
     console.log(`Hello ${message}`)
   }
-  sayHello('World')
+  sayHello('world')
   //TODO Do this or that
   return (
     <>
